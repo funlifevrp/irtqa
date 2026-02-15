@@ -1,0 +1,4 @@
+[16-Aug-2025 20:39:57 Asia/Riyadh] [2025-08-16 20:39:57] critical: Uncaught exception: Call to private Database::__construct() from global scope in /home/ubuntu/halqat/test_system.php on line 92 {"trace":"#0 {main}"}
+
+[16-Aug-2025 20:50:05 Asia/Riyadh] [2025-08-16 20:50:05] critical: Uncaught exception: Call to undefined method PDOStatement::get_result() in /home/ubuntu/halqat/test_system.php on line 187 {"trace":"#0 {main}"}
+
